@@ -120,10 +120,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](./images/out.png)
+![OUTPUT](./out.png)
 
 # HTML VALIDATOR
-![OUTPUT](./images/valid.png)
+![OUTPUT](./valid.png)
 
 # RESULT
 The program for creating slot timetable is completed successfully

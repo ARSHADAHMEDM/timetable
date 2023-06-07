@@ -1,6 +1,6 @@
 # Experiment_Time_Table
 
-## AIM
+### AIM
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM
@@ -119,11 +119,11 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+## OUPUT
 ![OUTPUT](./out.png)
 
-# HTML VALIDATOR
+## HTML VALIDATOR
 ![OUTPUT](./valid.png)
 
-# RESULT
+## RESULT
 The program for creating slot timetable is completed successfully
